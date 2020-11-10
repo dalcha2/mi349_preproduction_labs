@@ -23,4 +23,5 @@ function blackparadeAudio()
 {
     audio.pause();
     audio = new Audio('Welcomtotheblackparade.mp3');
+    
 }
