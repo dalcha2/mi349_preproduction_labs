@@ -5,4 +5,5 @@ color.onclick = function(){
 growing.onclick = function(){
     this.style.fontSize = '36px';
     this.style.color = 'blue';
+    
 }

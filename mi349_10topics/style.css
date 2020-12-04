@@ -14,4 +14,5 @@
     height: 160px;
     left: 100px;
     transition: left 5s cubic-bezier(.5,-1,.5,2);
+    
 }
